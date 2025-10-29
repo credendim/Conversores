@@ -47,5 +47,5 @@ Agora que o resultado da ultima divisão é igual a 1 vamos montar o nosso núme
 
 </details>
     
-## Decimal para Binario
+## Decimal para Binário
 O código recebe a entrada, que é amarzenada na variavel num
