@@ -1,10 +1,3 @@
-let num = 42;
-let sobra = 0;
-let loop = true;
-let convertido = '';
-let hexa = '0123456789ABDEF';
-let oct = '012345678';
-
 // Decimal(10) para Binario(2)
 while(loop == true) {
     sobra = num%2;
@@ -45,5 +38,3 @@ while(loop == true) {
         loop = false;
     }
 }
-
-console.log(convertido);
