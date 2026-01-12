@@ -1,5 +1,5 @@
 # Conversores
-Projeto em Javascript a seguir visa demonstrar minha capacidade de implementação, criatividade e solução de problemas. Durante a confecção do projeto não ultilizarei nenhuma IA, somente meu conhecimento e a documentação do próprio Javascript. 
+Projeto em Javascript a seguir visa demonstrar minha capacidade de implementação, criatividade e solução de problemas. Durante a confecção do projeto ultilizei somente meu conhecimento. 
 
 ### Habilidades testada no projeto:
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
