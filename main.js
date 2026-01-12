@@ -7,8 +7,12 @@ let option2 = document.getElementById('option2');
 let sobra = 0;
 let loop = true;
 let convertido = '';
-let hexa = '0123456789ABDEF';
+let hexa = '0123456789ABCDEF';
 let octa = '012345678';
+
+input.addEventListener('input', () => {
+    input.value = input.value.replace(/\D/g, '');
+});
 
 button.addEventListener('click', ()=> {
     let num = Number(input.value);
